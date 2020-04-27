@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Mar 20 19:29:38 2020
+Created on Mon Apr 27 17:40:36 2020
 
 @author: Apoorva
 """
+
 import math
 
 def juggler(n):
@@ -22,4 +23,3 @@ def juggler(n):
 #driver
 n=int(input())
 juggler(n)
-            
